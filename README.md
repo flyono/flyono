@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![flyono's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyono&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![flyono's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyono&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **flyono/flyono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
