@@ -7,17 +7,15 @@
   </a>
 </div>
 
-## Hi, 👋 I'm Aurora
+## Hi, 👋 I'm Flyone
 
-[![wuhobin.top](https://img.shields.io/badge/-wuhobin.top-00A98F?&logo=About.me&logoColor=FFFFFF)](https://www.wuhobin.top/) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub)](https://github.com/wuhobin)
+[![wuhobin.top](https://img.shields.io/badge/-wuhobin.top-00A98F?&logo=About.me&logoColor=FFFFFF)](https://blog.flyone.space/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub)](https://github.com/flyono)
 
 
 ### 🚀 Languages
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=OpenJDK)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
-![Go](https://img.shields.io/badge/-Go-000?&logo=C%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=sqlite&logoColor=003b57)
@@ -25,28 +23,28 @@
 
 ### 💻 I use daily
 
-[![Java](https://img.shields.io/badge/-Java-000?&logo=OpenJDK)](https://www.wuhobin.top/)
-[![Spring](https://img.shields.io/badge/SpringBoot-35495E?logo=Spring&logoColor=4FC08D)](https://www.wuhobin.top/)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=OpenJDK)](https://blog.flyone.space/)
+[![Spring](https://img.shields.io/badge/SpringBoot-35495E?logo=Spring&logoColor=4FC08D)](https://blog.flyone.space/)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=3ddc84)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
-[![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://www.wuhobin.top/)
-[![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://www.wuhobin.top/)
-[![Rocketmq](https://img.shields.io/badge/-Rocketmq-7A1FA2?logo=rocketmq&logoColor=FC8019)](https://www.wuhobin.top/)
-[![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://www.wuhobin.top/)
-[![Redis](https://img.shields.io/badge/-Redis-F6C915?logo=Redis&logoColor=F16061)](https://www.wuhobin.top/)
+[![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://blog.flyone.space/)
+[![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://blog.flyone.space/)
+[![Rocketmq](https://img.shields.io/badge/-Rocketmq-7A1FA2?logo=rocketmq&logoColor=FC8019)](https://blog.flyone.space/)
+[![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://blog.flyone.space/)
+[![Redis](https://img.shields.io/badge/-Redis-F6C915?logo=Redis&logoColor=F16061)](https://blog.flyone.space/)
 
 
 ### 🌱 Interest in
 
-![Netty](https://img.shields.io/badge/-Netty-000?&logo=netty&logoColor=5D4F85)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes%23-000?&logo=Kubernetes&logoColor=239120)
-[![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://www.wuhobin.top/)
+[![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://blog.flyone.space/)
 
 
 
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuhobin&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=wuhobin&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyono&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=wuhobin&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
 
 🔥 My projects:
 -----------------------
-个人主页：https://www.wuhobin.top/</br>
-编程宝典：https://codenote.wuhobin.top/
+个人主页：https://blog.flyone.space/</br>
+// 编程宝典：https://blog.flyone.space/
