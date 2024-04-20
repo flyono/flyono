@@ -9,7 +9,7 @@
 
 ## Hi, 👋 I'm Flyone
 
-[![wuhobin.top](https://img.shields.io/badge/-wuhobin.top-00A98F?&logo=About.me&logoColor=FFFFFF)](https://blog.flyone.space/) 
+[![flyone.top](https://img.shields.io/badge/-wuhobin.top-00A98F?&logo=About.me&logoColor=FFFFFF)](https://blog.flyone.space/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub)](https://github.com/flyono)
 
 
