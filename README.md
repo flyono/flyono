@@ -37,7 +37,7 @@
 ### 🌱 Interest in
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes%23-000?&logo=Kubernetes&logoColor=239120)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&logoColor=239120)
 [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://blog.flyone.space/)
 
 
