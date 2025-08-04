@@ -2,8 +2,8 @@
 
 
 <div align="center">
-  <a href="https://blog.flyone.space/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008c8c&width=435&lines=举头见日！;不见长安！&center=true&size=27" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=%E4%B8%BE%E5%A4%B4%E8%A7%81%E6%97%A5%EF%BC%81;%E4%B8%8D%E8%A7%81%E9%95%BF%E5%AE%89%EF%BC%81" alt="Typing SVG" />
   </a>
 </div>
 
