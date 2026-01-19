@@ -39,23 +39,3 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&logoColor=239120)
 [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://blog.flyone.space/)
-
-## 📈 GitHub Stats | 统计
----
-<p>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=flyono&show_icons=true&theme=neon&locale=cn" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=flyono&layout=donut&theme=neon&locale=cn" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=flyono&theme=neon&locale=cn" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=flyono&langs_count=16&layout=compact&theme=neon" />
-</p>
-
----
